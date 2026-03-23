@@ -1,7 +1,7 @@
 # Coffee_Machine_Program (Python)
 A Python console-based coffee machine simulation where users can order drinks, insert coins, and receive beverages if sufficient resources and payment are available. The machine tracks ingredient usage, handles transactions, and generates resource reports while continuously running until turned off.
 
-▶️ How to Run
+# ▶️ How to Run
 
 1. Make sure you have Python installed on your computer.
 
